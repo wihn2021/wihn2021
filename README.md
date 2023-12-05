@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=wihn2021)
-
 ## recent news
 
 2023.12.3 Made major contributions to the [intelligent robot project](https://github.com/wihn2021/smart-robot) and won first place in the course competition
