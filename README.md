@@ -1,4 +1,6 @@
-## recent news
+## news
+
+2023.12.25 Finished Media and Recognition course project of [Multimodal decision-making and robotic arm control system](https://github.com/Code-319/media-recognition-project-2023)
 
 2023.12.3 Made major contributions to the [intelligent robot project](https://github.com/wihn2021/smart-robot) and won first place in the course competition
 
