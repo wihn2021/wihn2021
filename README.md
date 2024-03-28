@@ -1,4 +1,4 @@
-## news
+## Projects
 
 2023.12.25 Finished Media and Cognition course project of [Multimodal decision-making and robotic arm control system](https://github.com/Code-319/media-recognition-project-2023)
 
@@ -7,7 +7,6 @@
 ## goals in 2024
 
 - all-green contribution table
-- Excel
 
 ## statistics
 
