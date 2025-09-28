@@ -1,7 +1,7 @@
 
 `System`&`AI`
 
-[NeurIPS 2025] [Learning to Compile: Self-Evolving Translation from IR to Assembly Code](https://neurips.cc/virtual/2025/poster/119911)
+[NeurIPS 2025] [Learning to Compile: Self-Evolving Translation from IR to Assembly Code](https://neurips.cc/virtual/2025/poster/119911) 4th author
 
 ## statistics
 
